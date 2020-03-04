@@ -9,7 +9,7 @@
     "eventproxy": "^0.3.4",
     "iconv-lite": "^0.5.1",
     "node-xlsx": "^0.15.0",
-    "superagent": "^1.4.0"
+    "superagent": "^5.2.2"
   },
   "devDependencies": {},
   "scripts": {
